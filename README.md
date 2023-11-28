@@ -34,13 +34,4 @@
 <div>
 <br><br><br><br><br><br>
 <br> <br><br><br>
-<p ><h1 align="right"><strong>N O W &nbsp; P L A Y I N G</h1></strong></p>
-<p align="left" >
-<div style="margin-left: 100px;">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31bl56y335fhguof5rga6z4y6dgm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-</div>
-
-</p>
-
-[![@D3FaltXD's Holopin board](https://holopin.io/api/user/board?user=d3falt)](https://holopin.io/@d3falt)
